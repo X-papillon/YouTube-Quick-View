@@ -86,7 +86,7 @@ youtube-pip-extension/
   <br/>
   <img src="https://raw.githubusercontent.com/X-papillon/YouTube-Quick-View/refs/heads/main/screenshot3.jpg" width="300"/>
 </p>
-</p>
+
 ---
 
 ## ☕ Support the Project
