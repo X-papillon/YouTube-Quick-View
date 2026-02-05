@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Quick View (PiP)",
+  "version": "1.0",
+  "description": "Toggle YouTube Picture-in-Picture from the extension icon",
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["https://www.youtube.com/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+   "icons": {
+    "16": "icons/16.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
+  },
+  "action": {
+    "default_title": "Toggle YouTube Mini Player"
+  }
+}
