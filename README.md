@@ -76,8 +76,27 @@ youtube-pip-extension/
 * Keyboard shortcut toggle
 * Support for other video websites
 * Icon badge when PiP is active
-
 ---
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/X-papillon/YouTube-Quick-View/refs/heads/main/screenshot1.jpg" width="300"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/X-papillon/YouTube-Quick-View/refs/heads/main/screenshot2.jpg" width="300"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/X-papillon/YouTube-Quick-View/refs/heads/main/screenshot3.jpg" width="300"/>
+</p>
+</p>
+---
+
+## ☕ Support the Project
+
+If this project helped you, consider supporting me:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ashraf07)
+
+Thank you for your support ❤️
+
 
 ## 📜 License
 
